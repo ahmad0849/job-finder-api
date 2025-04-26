@@ -27,7 +27,7 @@ A **FastAPI-based** microservice that **fetches** and **filters** relevant job l
    ```
 
 3. **Create account on Hugging Face to use Hugchat file**
-   - Create a `.env` file in the project root.
+   
    - Add your HugChat (Hugging Face) credentials inside it:
 
      Example :
