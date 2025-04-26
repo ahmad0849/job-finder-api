@@ -16,6 +16,7 @@ Start the API server:
 
 uvicorn main:app --reload
 The API will be available at http://localhost:8000
+fASTAPI: http://localhost:8000/docs
 
 API Endpoints
 GET / - API root, displays welcome message
@@ -31,12 +32,3 @@ json
   "skills": "Python, FastAPI, SQL"
 }
 Deployment
-See the deployment documentation for instructions on deploying to:
-
-Render.com
-Heroku
-Docker
-AWS Elastic Beanstalk
-License
-MIT License
-
