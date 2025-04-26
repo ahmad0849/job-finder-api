@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+jobspy
+pandas
+hugchat
+openai
+gunicorn
