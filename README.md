@@ -26,11 +26,11 @@ A **FastAPI-based** microservice that **fetches** and **filters** relevant job l
    pip install -r requirements.txt
    ```
 
-3. **Create a `.env` file**
+3. **Create account on Hugging Face to use Hugchat file**
    - Create a `.env` file in the project root.
    - Add your HugChat (Hugging Face) credentials inside it:
 
-     Example `.env`:
+     Example :
      ```
      EMAIL=your-email@example.com
      PASSWORD=your-password
